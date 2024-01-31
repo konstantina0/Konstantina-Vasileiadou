@@ -1,5 +1,4 @@
 ---
-title: Welcome to my personal page ! 
-description: What's up?
+title: www.linkedin.com/in/konstantina-vasileiadou-98a78219b 
 ---
 
